@@ -1,8 +1,8 @@
 # FitNote
 
-**FitNote** is a ... app
+**FitNote** is a fitness app. With rather simplistic designs, our goal is to attract users who need a simple and easy to use application to record their daily information without crazy analyses. 
 
-Time spent:  hours spent in total
+Time spent:  Many many hours spent in total
 
 ## User Stories
 
