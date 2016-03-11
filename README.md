@@ -8,12 +8,11 @@ Time spent:  Many many hours spent in total
 
 The following functionality will be completed:
 
-- [ ] MainView : User makes notes for his/her own daily feeling through the icons
-- [ ] MainView : User makes notes for his/her own daily workouts by using scroll buttons
+- [ ] MainView : User makes notes for his/her own feeling through the icons
+- [ ] MainView : User makes notes for his/her own daily workouts by scrolling picker view
 - [ ] MapView : User can find fitnesses near his/her current location through the map view.
 - [ ] SettingView : If user swipes the screen from the bottom, user is able to change settings for workouts
-- [ ] ListView : If user swipes the screen from the right, user can see a list of his/her own notes
-- [ ] 
+- [ ] ListView : If user swipes the screen from the right, user can see a list of his/her own note 
 
 
 ## Video Walkthrough 
