@@ -15,6 +15,10 @@ The following functionality will be completed:
 - [ ] ListView : If user swipes the screen from the right, user can see a list of his/her own note 
 - [ ] ListView : Each icon of feeling icons has a value from 1 to 5. The user can see the average of daily feeling 
 
+
+## WireFrame
+https://www.fluidui.com/editor/live/preview/p_pGfD9uMerd3EI1omwswxE2UM5JnOe9c7.1457659579411
+
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
