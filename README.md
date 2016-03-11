@@ -13,7 +13,7 @@ The following functionality will be completed:
 - [ ] MapView : User can find fitnesses near his/her current location through the map view.
 - [ ] SettingView : If user swipes the screen from the bottom, user is able to change settings for workouts
 - [ ] ListView : If user swipes the screen from the right, user can see a list of his/her own note 
-
+- [ ] ListView : Each icon of feeling icons has a value from 1 to 5. The user can see the average of daily feeling 
 
 ## Video Walkthrough 
 
