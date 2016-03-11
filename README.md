@@ -11,7 +11,7 @@ The following functionality will be completed:
 - [ ] MainView : User makes notes for his/her own feeling through the icons
 - [ ] MainView : User makes notes for his/her own daily workouts by scrolling picker view
 - [ ] MapView : User can find fitnesses near his/her current location through the map view.
-- [ ] SettingView : If user swipes the screen from the bottom, user is able to change settings for workouts
+- [ ] SettingView : If user swipes the screen two times from the MainView, user is able to change settings for workouts
 - [ ] ListView : If user swipes the screen from the right, user can see a list of his/her own note 
 - [ ] ListView : Each icon of feeling icons has a value from 1 to 5. The user can see the average of daily feeling 
 
