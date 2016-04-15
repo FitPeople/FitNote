@@ -12,6 +12,7 @@
 		84EC55E91C89128300033C0B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84EC55E71C89128300033C0B /* Main.storyboard */; };
 		84EC55EB1C89128300033C0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84EC55EA1C89128300033C0B /* Assets.xcassets */; };
 		84EC55EE1C89128300033C0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84EC55EC1C89128300033C0B /* LaunchScreen.storyboard */; };
+		CD04AFDF1CC066BB001F7C5A /* FitController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD04AFDE1CC066BB001F7C5A /* FitController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		84EC55EA1C89128300033C0B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84EC55ED1C89128300033C0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84EC55EF1C89128300033C0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CD04AFDE1CC066BB001F7C5A /* FitController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FitController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		84EC55D71C89128300033C0B = {
 			isa = PBXGroup;
 			children = (
+				CD04AFDE1CC066BB001F7C5A /* FitController.swift */,
 				84EC55E21C89128300033C0B /* FitNote */,
 				84EC55E11C89128300033C0B /* Products */,
 			);
@@ -137,6 +140,7 @@
 			files = (
 				84EC55E61C89128300033C0B /* ViewController.swift in Sources */,
 				84EC55E41C89128300033C0B /* AppDelegate.swift in Sources */,
+				CD04AFDF1CC066BB001F7C5A /* FitController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +290,7 @@
 				84EC55F41C89128300033C0B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
