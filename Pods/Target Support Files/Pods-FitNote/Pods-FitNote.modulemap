@@ -1,0 +1,6 @@
+framework module Pods_FitNote {
+  umbrella header "Pods-FitNote-umbrella.h"
+
+  export *
+  module * { export * }
+}
