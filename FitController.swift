@@ -154,7 +154,7 @@ class FitController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSou
         
         print(Data[dataCount][0])
         dataCount += 1
-        self.tableView.reloadData()
+       // self.tableView.reloadData()
         
 //        tableView.cell.textLabel!.text = first + "\(secondfirst+1)" + secondsecond + "\(secondthird+8)" + secondsecondsecond
     }
